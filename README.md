@@ -1,4 +1,4 @@
-# Python_assignment
+# Python Assignment
 This repository contains a Python notebook that demonstrates foundational programming concepts, including **string manipulation, list operations (indexing, slicing, mutability), conditional logic, and type casting**.
 
 ---
